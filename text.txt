@@ -1,0 +1,6 @@
+git init- tworzenie repozytorium
+git status- sprawdzanie
+U przy plikach - nieśledzone pliki 
+git add (nazwa pliku)_- rozpoczęcie śledzenia pliku 
+git add -A   - dodawanie do stageingu     
+git commit - oddawanie pliku do repozytorium
